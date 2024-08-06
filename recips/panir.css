@@ -1,0 +1,58 @@
+body {
+    padding: 10%;
+    background-color: rgba(242, 232, 128, 0.4);
+}
+
+.recipe {
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    padding: 1%;
+    background-color: rgba(242, 232, 128, 0.4);
+    text-align: center;
+    border: 1px solid black;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+    border-color: rgb(255, 121, 87);
+}
+
+h1 {
+    padding: 1%;
+    text-align: center;
+    background-color: rgba(242, 232, 128, 0.4);
+    border: 1px solid black;
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+    border-color: rgb(255, 121, 87);
+}
+
+h4 {
+    padding: 1%;
+    text-align: center;
+    background-color: rgba(242, 232, 128, 0.4);
+    border: 1px solid black;
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+    border-color: rgb(255, 121, 87);
+}
+
+.content {
+    padding: 1%;
+    text-align: center;
+    background-color: rgba(237, 236, 235, 0.4);
+    border: 1px solid black;
+    border-color: rgb(255, 121, 87);
+}
+
+.photo {
+    height: 30%;
+    width: 30%;
+    background-color: rgba(242, 232, 128, 0.4);
+    border: 1px solid black;
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+    border-color: rgb(255, 121, 87);
+}
+
+.footer {
+    text-align: end;
+}
